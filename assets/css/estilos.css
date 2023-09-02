@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;700&display=swap');
+
+
+body{
+    font-family: 'Barlow', sans-serif;
+}
+
+.bg-colorPrincipal {
+    background-color: #EE334E;
+}
+
+.bg-colorBuscador {
+    background-color: #0081C8;
+}
+
+.btn-exterior-colorPrincipal {
+    border-color: #EE334E;
+}
+
+.btn-exterior-colorPrincipal:hover {
+    background-color: #0081C8;
+    color: #fff;
+}
+
+
+.bg-fondoNoticias{
+    background-color: #0081C8;
+}
+
+.btn-secciones:hover {
+    color: #fa566f;
+}
+
+.verMas{
+    color: #0081C8;
+}
+
+.verMas:Hover {
+    color: #fa566f;
+}
+
+.btn-footer-colorprincipal:hover{
+    color:#0081C8
+}
